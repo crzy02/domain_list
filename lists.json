@@ -434,7 +434,7 @@
       "tag": "Fixed_by_crzy02",
       "source": "itdoginfo/allow-domains",
       "source_name": "itdoginfo (allow-domains)",
-      "default_on": true,
+      "default_on": false,
       "same_as_ip": [
         "itdoginfo:discord"
       ]
@@ -527,7 +527,7 @@
       "tag": "Fixed_by_crzy02",
       "source": "itdoginfo/allow-domains",
       "source_name": "itdoginfo (allow-domains)",
-      "default_on": true
+      "default_on": false
     },
     {
       "id": "svc_itdoginfo_meta",
@@ -608,7 +608,7 @@
       "tag": "Fixed_by_crzy02",
       "source": "itdoginfo/allow-domains",
       "source_name": "itdoginfo (allow-domains)",
-      "default_on": true
+      "default_on": false
     },
     {
       "id": "itdoginfo:russia_outside",
@@ -632,7 +632,7 @@
       "tag": "Fixed_by_crzy02",
       "source": "itdoginfo/allow-domains",
       "source_name": "itdoginfo (allow-domains)",
-      "default_on": true,
+      "default_on": false,
       "same_as_ip": [
         "itdoginfo:telegram"
       ]
