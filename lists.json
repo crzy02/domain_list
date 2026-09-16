@@ -1,0 +1,317 @@
+{
+  "version": "2026-09-16_15-55",
+  "generated_at": "2026-09-16T15:55:22Z",
+  "base_url": "https://raw.githubusercontent.com/crzy02/domain_list/main/lists",
+  "categories": [
+    {
+      "id": "itdoginfo:discord",
+      "name_ru": "Discord",
+      "file": "itdoginfo/discord.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/discord.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    },
+    {
+      "id": "itdoginfo:google_meet",
+      "name_ru": "Google Meet",
+      "file": "itdoginfo/google_meet.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/google_meet.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    },
+    {
+      "id": "itdoginfo:meta",
+      "name_ru": "Meta (Facebook, Instagram)",
+      "file": "itdoginfo/meta.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/meta.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    },
+    {
+      "id": "itdoginfo:roblox",
+      "name_ru": "Roblox",
+      "file": "itdoginfo/roblox.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/roblox.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    },
+    {
+      "id": "itdoginfo:telegram",
+      "name_ru": "Telegram",
+      "file": "itdoginfo/telegram.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/telegram.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    },
+    {
+      "id": "itdoginfo:twitter",
+      "name_ru": "Twitter (X)",
+      "file": "itdoginfo/twitter.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/twitter.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    }
+  ],
+  "domain_lists": [
+    {
+      "id": "russia_inside",
+      "name_ru": "russia_inside",
+      "file": "russia_inside.lst",
+      "count": 1183,
+      "default_on": false,
+      "kind": "domains"
+    },
+    {
+      "id": "itdoginfo:anime",
+      "kind": "domains",
+      "name_ru": "Аниме",
+      "file": "itdoginfo/domains/anime.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/anime.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    },
+    {
+      "id": "itdoginfo:block",
+      "kind": "domains",
+      "name_ru": "Заблокированное в РФ",
+      "file": "itdoginfo/domains/block.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/block.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    },
+    {
+      "id": "svc_itdoginfo_discord",
+      "kind": "domains",
+      "name_ru": "Discord",
+      "file": "itdoginfo/domains/discord.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/discord.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true,
+      "same_as_ip": [
+        "itdoginfo:discord"
+      ]
+    },
+    {
+      "id": "itdoginfo:geoblock",
+      "kind": "domains",
+      "name_ru": "Геоблокировка (не пускают из РФ)",
+      "file": "itdoginfo/domains/geoblock.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/geoblock.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    },
+    {
+      "id": "itdoginfo:google_ai",
+      "kind": "domains",
+      "name_ru": "Google AI",
+      "file": "itdoginfo/domains/google_ai.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/google_ai.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    },
+    {
+      "id": "svc_itdoginfo_google_meet",
+      "kind": "domains",
+      "name_ru": "Google Meet",
+      "file": "itdoginfo/domains/google_meet.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/google_meet.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true,
+      "same_as_ip": [
+        "itdoginfo:google_meet"
+      ]
+    },
+    {
+      "id": "itdoginfo:google_play",
+      "kind": "domains",
+      "name_ru": "Google Play",
+      "file": "itdoginfo/domains/google_play.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/google_play.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    },
+    {
+      "id": "itdoginfo:hdrezka",
+      "kind": "domains",
+      "name_ru": "HDRezka",
+      "file": "itdoginfo/domains/hdrezka.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/hdrezka.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    },
+    {
+      "id": "itdoginfo:hodca",
+      "kind": "domains",
+      "name_ru": "H.O.D.C.A (Hetzner, OVH, DigitalOcean, Cloudflare, AWS, Akamai)",
+      "file": "itdoginfo/domains/hodca.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/hodca.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    },
+    {
+      "id": "svc_itdoginfo_meta",
+      "kind": "domains",
+      "name_ru": "Meta (Facebook, Instagram)",
+      "file": "itdoginfo/domains/meta.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/meta.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true,
+      "same_as_ip": [
+        "itdoginfo:meta"
+      ]
+    },
+    {
+      "id": "itdoginfo:news",
+      "kind": "domains",
+      "name_ru": "Новости",
+      "file": "itdoginfo/domains/news.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/news.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    },
+    {
+      "id": "itdoginfo:porn",
+      "kind": "domains",
+      "name_ru": "Взрослое",
+      "file": "itdoginfo/domains/porn.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/porn.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    },
+    {
+      "id": "svc_itdoginfo_roblox",
+      "kind": "domains",
+      "name_ru": "Roblox",
+      "file": "itdoginfo/domains/roblox.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/roblox.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true,
+      "same_as_ip": [
+        "itdoginfo:roblox"
+      ]
+    },
+    {
+      "id": "itdoginfo:russia_inside",
+      "kind": "domains",
+      "name_ru": "Россия: изнутри (сборный)",
+      "file": "itdoginfo/domains/russia_inside.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/russia_inside.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    },
+    {
+      "id": "svc_itdoginfo_telegram",
+      "kind": "domains",
+      "name_ru": "Telegram",
+      "file": "itdoginfo/domains/telegram.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/telegram.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true,
+      "same_as_ip": [
+        "itdoginfo:telegram"
+      ]
+    },
+    {
+      "id": "itdoginfo:tiktok",
+      "kind": "domains",
+      "name_ru": "TikTok",
+      "file": "itdoginfo/domains/tiktok.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/tiktok.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    },
+    {
+      "id": "svc_itdoginfo_twitter",
+      "kind": "domains",
+      "name_ru": "Twitter (X)",
+      "file": "itdoginfo/domains/twitter.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/twitter.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true,
+      "same_as_ip": [
+        "itdoginfo:twitter"
+      ]
+    },
+    {
+      "id": "itdoginfo:youtube",
+      "kind": "domains",
+      "name_ru": "YouTube",
+      "file": "itdoginfo/domains/youtube.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/itdoginfo/allow-domains/releases/download/2026-09-14_15-11/youtube.srs",
+      "tag": "2026-09-14_15-11",
+      "source": "itdoginfo/allow-domains",
+      "source_name": "itdoginfo (allow-domains)",
+      "default_on": true
+    }
+  ]
+}
